@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Taller2</string>
+    <string name="taller2">Taller2</string>
+    <string name="genero">Genero</string>
+    <string name="marca">Marca</string>
+    <string name="tipo">Tipo</string>
+    <string name="valor">Valor</string>
+    <string name="valo_x_und">Valor (X) Und</string>
+    <string name="di_cant">Digite Cantidad</string>
+    <string name="resultado">Resultado</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="pumas">Pumas</string>
+    <string name="zapatilla">Zapatilla</string>
+    <string name="clasico">Clasico</string>
+    <string-array name="generos">
+        <item>@string/hombre</item>
+        <item>@string/mujer</item>
+    </string-array>
+
+    <string-array name="marcas">
+        <item>@string/nike</item>
+        <item>@string/adidas</item>
+        <item>@string/pumas</item>
+    </string-array>
+
+    <string-array name="tipos">
+        <item>@string/zapatilla</item>
+        <item>@string/clasico</item>
+
+    </string-array>
+</resources>
